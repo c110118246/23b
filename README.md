@@ -4,6 +4,8 @@
 ### Huan
 #### Huan
 
+# :smile:🛴
+
 ![NKUST](logo.png "NKUST")
 
 
@@ -12,3 +14,12 @@
 - [ ]  2nd thing
 - [ ]  3rd thing
 - [ ]  4th thing
+
+```python
+s = "python highlighted syntex"
+print(s)
+```
+
+```js
+var s = "javascript highlighted syntex";
+alert(s)
