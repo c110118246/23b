@@ -4,4 +4,4 @@
 ### Huan
 #### Huan
 
-logo.png
+![nkust](logo.png "高科大")
