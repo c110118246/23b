@@ -8,7 +8,7 @@
 
 
 - [ ]  to do list
-- [ ]  1st thing
+- [x]  1st thing
 - [ ]  2nd thing
 - [ ]  3rd thing
 - [ ]  4th thing
