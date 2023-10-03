@@ -1,12 +1,12 @@
-#專案管理  
-##PERT/CPM圖  
+# 專案管理  
+## PERT/CPM圖  
 
 ![pert_diagram](p.png "pert_diagram")
 
 
 
 
-##甘特圖  
+## 甘特圖  
 ### Mermaid
 ```mermaid
 gantt
@@ -27,6 +27,6 @@ gantt
     section Another
 
 ```
-##關鍵路徑  
+## 關鍵路徑  
 ```
 1 -> 2 -> 4-> 6 -> 9 -> 11
