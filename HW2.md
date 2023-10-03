@@ -1,7 +1,7 @@
 #專案管理  
 ##PERT/CPM圖  
 
-![pert_diagram](pert_diagram.png "pert_diagram")
+![pert_diagram](p.png "pert_diagram")
 
 
 
